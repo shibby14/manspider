@@ -1,5 +1,2 @@
-INDEX VERSION 1.126+C:\Users\Alexander\workspace\.metadata\.plugins\org.eclipse.jdt.core
-1858165579.index
-633509827.index
-1940043354.index
-3781813266.index
+INDEX VERSION 1.126+C:\Users\Alexander\crap\manspider\Spider-prototype\.metadata\.plugins\org.eclipse.jdt.core
+2932250406.index
